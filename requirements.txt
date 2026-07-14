@@ -1,0 +1,14 @@
+## Requirements
+
+To run this project successfully, install the following Python libraries:
+
+- Pandas – for loading and processing the dataset.
+- NumPy – for numerical computations.
+- Scikit-learn – for data preprocessing, model training, evaluation, and prediction.
+- Joblib – for saving and loading the trained machine learning model.
+
+You can install all the required libraries using the following command:
+
+```bash
+pip install -r requirements.txt
+```
