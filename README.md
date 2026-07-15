@@ -15,6 +15,14 @@ The project uses a Random Forest Regressor model, which is trained on a student 
 - Train and evaluate a regression model.
 - Save and reuse the trained model.
 
+## Dataset
+
+The dataset used in this project was downloaded from Kaggle.
+
+**Source:** Student Performance Prediction Dataset
+
+**Link:** https://www.kaggle.com/datasets/devansodariya/student-performance-data
+
 ---
 
 ## Technologies Used
