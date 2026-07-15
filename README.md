@@ -97,6 +97,49 @@ Predicted Final Grade (G3): 6.26
 - Deploy the model online for public use.
 
 ---
+# 📸 Output Screenshots
+
+## 1. Dataset Preview
+data.head()
+
+## 2. Dataset Shape
+data.shape
+
+## 3. Dataset Columns
+data.columns
+
+## 4. Dataset Information
+data.info()
+
+## 5. Statistical Summary
+data.describe()
+
+## 6. Features (X)
+print(x.head())
+
+## 7. Target Variable (Y)
+print(y.head())
+
+## 8. Encoded Features
+Encoded Features
+
+## 9. Training and Testing Data Split
+x_train.shape and x_test.shape
+
+## 10. Model Training
+Model Trained Successfully
+
+## 11. Model Evaluation
+MAE and R² Score
+
+## 12. Model Saving
+Model Saved Successfully
+
+## 13. Model Loading
+Model Loaded Successfully
+
+## 14. Prediction Output
+Predicted Final Grade (G3): 6.26
 
 ## Developed By
 

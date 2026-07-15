@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 
 
-data = pd.read_csv("data/student_data.csv")
+data = pd.read_csv("../data/student_data.csv")
 print(data.head(5))
 
 print(data.shape)
