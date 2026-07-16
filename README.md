@@ -108,24 +108,38 @@ Predicted Final Grade (G3): 6.26
 # 📸 Output Screenshots
 
 # Screenshots
-
 ## 1. Dataset Loading & Information
 This section shows the dataset being loaded successfully and displays the dataset information, including the number of rows, columns, and data types.
+**Screenshots**
+<img width="1445" height="892" alt="Screenshot 2026-07-16 105909" src="https://github.com/user-attachments/assets/2f3f8119-8b4e-4f4c-bf0e-c5333f7a78c2" />
+<img width="1515" height="900" alt="Screenshot 2026-07-16 110148" src="https://github.com/user-attachments/assets/f2936b11-d875-4f96-9454-cc68090a812e" />
+<img width="1541" height="873" alt="Screenshot 2026-07-16 110241" src="https://github.com/user-attachments/assets/79b2bffe-4b6c-40c7-9d3a-a75158d1bf32" />
+
+
+
+
 
 ---
-
 ## 2. Data Preprocessing & Model Training
 This section shows the preprocessing steps, feature encoding, model training, model evaluation, and saving the trained machine learning model.
+**Screenshots**
+<img width="1506" height="885" alt="Screenshot 2026-07-15 235919" src="https://github.com/user-attachments/assets/a505ccfd-3c79-4b39-b717-450b0cad3934" />
 
 ---
 
 ## 3. Prediction Using Trained Model
 This section shows the prediction made by the trained model using sample student data.
-
+**Screenshot**
+<img width="908" height="120" alt="Screenshot 2026-07-16 000510" src="https://github.com/user-attachments/assets/24d7f266-b3d2-4fa7-a99a-fdb3811f54f4" />
 ---
 
 ## 4. Streamlit Web Application
 This section shows the AI Student Performance Prediction web application developed using Streamlit, including the user input interface and the predicted final grade after clicking the **Predict** button.
+**Screenshot**
+<img width="917" height="828" alt="Screenshot 2026-07-16 101054" src="https://github.com/user-attachments/assets/f592297c-377e-48ac-a127-8d88ff4a0e63" />
+<img width="893" height="865" alt="Screenshot 2026-07-16 101214" src="https://github.com/user-attachments/assets/37cb235c-dff0-44eb-8ff7-a7b9c62f6a7f" />
+<img width="912" height="842" alt="Screenshot 2026-07-16 101140" src="https://github.com/user-attachments/assets/9b99d050-4538-4f3f-8590-b1aa74f491ed" />
+<img width="947" height="852" alt="Screenshot 2026-07-16 101122" src="https://github.com/user-attachments/assets/a06773cc-fe6d-4354-9e9d-8973c4712f6f" />
 
 ---
 
