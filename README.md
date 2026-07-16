@@ -58,10 +58,6 @@ AI-Student-Performance-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-```
-```
-
----
 
 ## Workflow
 
