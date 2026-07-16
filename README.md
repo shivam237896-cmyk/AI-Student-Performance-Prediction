@@ -107,47 +107,30 @@ Predicted Final Grade (G3): 6.26
 ---
 # 📸 Output Screenshots
 
-## 1. Dataset Preview
-data.head()
+# Screenshots
 
-## 2. Dataset Shape
-data.shape
+## 1. Dataset Loading & Information
+This section shows the dataset being loaded successfully and displays the dataset information, including the number of rows, columns, and data types.
 
-## 3. Dataset Columns
-data.columns
+---
 
-## 4. Dataset Information
-data.info()
+## 2. Data Preprocessing & Model Training
+This section shows the preprocessing steps, feature encoding, model training, model evaluation, and saving the trained machine learning model.
 
-## 5. Statistical Summary
-data.describe()
+---
 
-## 6. Features (X)
-print(x.head())
+## 3. Prediction Using Trained Model
+This section shows the prediction made by the trained model using sample student data.
 
-## 7. Target Variable (Y)
-print(y.head())
+---
 
-## 8. Encoded Features
-Encoded Features
+## 4. Streamlit Web Application
+This section shows the AI Student Performance Prediction web application developed using Streamlit, including the user input interface and the predicted final grade after clicking the **Predict** button.
 
-## 9. Training and Testing Data Split
-x_train.shape and x_test.shape
+---
 
-## 10. Model Training
-Model Trained Successfully
-
-## 11. Model Evaluation
-MAE and R² Score
-
-## 12. Model Saving
-Model Saved Successfully
-
-## 13. Model Loading
-Model Loaded Successfully
-
-## 14. Prediction Output
-Predicted Final Grade (G3): 6.26
+## 5. GitHub Repository
+This section shows the final project structure uploaded to GitHub with all required source code, model files, documentation, and project resources.
 
 ## Developed By
 
