@@ -39,10 +39,13 @@ The dataset used in this project was downloaded from Kaggle.
 ## Project Structure
 
 ```
+## Project Structure
+
+```
 AI-Student-Performance-Prediction/
 │
 ├── data/
-│   └── student_data.csv
+│   └── student_datas.csv
 │
 ├── models/
 │   └── student_performance_model.pkl
@@ -51,9 +54,11 @@ AI-Student-Performance-Prediction/
 │   ├── train_model.py
 │   └── predict.py
 │
-├── README.md
+├── app.py
 ├── requirements.txt
+├── README.md
 └── .gitignore
+```
 ```
 
 ---
@@ -145,6 +150,9 @@ This section shows the AI Student Performance Prediction web application develop
 
 ## 5. GitHub Repository
 This section shows the final project structure uploaded to GitHub with all required source code, model files, documentation, and project resources.
+**Screenshot**
+<img width="1583" height="905" alt="Screenshot 2026-07-16 110931" src="https://github.com/user-attachments/assets/887015e3-5f39-4519-8f14-5bcfb4875cfe" />
+
 
 ## Developed By
 
