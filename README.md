@@ -136,6 +136,15 @@ This section shows the prediction made by the trained model using sample student
 
 ## 4. Streamlit Web Application
 This section shows the AI Student Performance Prediction web application developed using Streamlit, including the user input interface and the predicted final grade after clicking the **Predict** button.
+
+## Live Demo
+
+The AI Student Performance Prediction System has been successfully deployed as a live web application using Streamlit Cloud.
+
+You can access and test the application using the link below:
+https://ai-student-performance-prediction-abhrrnmhaybjpnzcxa5n4t.streamlit.app/
+
+🔗 https://your-streamlit-app.streamlit.app
 **Screenshot**
 <img width="917" height="828" alt="Screenshot 2026-07-16 101054" src="https://github.com/user-attachments/assets/f592297c-377e-48ac-a127-8d88ff4a0e63" />
 <img width="893" height="865" alt="Screenshot 2026-07-16 101214" src="https://github.com/user-attachments/assets/37cb235c-dff0-44eb-8ff7-a7b9c62f6a7f" />
